@@ -1,9 +1,3 @@
-# Kaggle linki
-
-https://www.kaggle.com/code/berkinyildirim/aygaz-data-analysis-bootcamp
-
----
-
 # Powerlifting Veri Analizi Projesi
 
 ## 📚 Proje Hakkında
@@ -71,3 +65,7 @@ Bu projede aşağıdaki araçlar ve kütüphaneler kullanılmıştır:
 - Gerekli kütüphaneleri yüklemek için:
    ```bash
    pip install pandas numpy matplotlib seaborn
+
+---
+
+- **Kaggle Proje Linki:** [Aygaz Data Analysis Bootcamp - Kaggle](https://www.kaggle.com/code/berkinyildirim/aygaz-data-analysis-bootcamp)
