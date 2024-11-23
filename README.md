@@ -1,3 +1,9 @@
+# Kaggle linki
+
+https://www.kaggle.com/code/berkinyildirim/aygaz-data-analysis-bootcamp
+
+---
+
 # Powerlifting Veri Analizi Projesi
 
 ## 📚 Proje Hakkında
